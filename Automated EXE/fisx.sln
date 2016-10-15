@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fisx", "fisx.vcproj", "{5615056B-9BF0-412C-893E-9A4D0011ED12}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{479690C3-1797-4E56-8A03-4366770D803E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5615056B-9BF0-412C-893E-9A4D0011ED12}.Debug|Win32.ActiveCfg = Release|Win32
+		{5615056B-9BF0-412C-893E-9A4D0011ED12}.Debug|Win32.Build.0 = Release|Win32
+		{5615056B-9BF0-412C-893E-9A4D0011ED12}.Release|Win32.ActiveCfg = Release|Win32
+		{5615056B-9BF0-412C-893E-9A4D0011ED12}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

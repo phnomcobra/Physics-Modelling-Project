@@ -1,0 +1,23 @@
+------ Build started: Project: fisx, Configuration: Debug Win32 ------
+
+Compiling...
+fisx.cpp
+d:\Physics Modelling Project\Fisx\fisx.cpp(21) : warning C4101: 'v' : unreferenced local variable
+d:\Physics Modelling Project\Fisx\fisx.cpp(21) : warning C4101: 'h' : unreferenced local variable
+d:\Physics Modelling Project\Fisx\fisx.cpp(20) : warning C4101: 'rangestep' : unreferenced local variable
+d:\Physics Modelling Project\Fisx\fisx.cpp(21) : warning C4101: 'b' : unreferenced local variable
+d:\Physics Modelling Project\Fisx\fisx.cpp(21) : warning C4101: 'g' : unreferenced local variable
+d:\Physics Modelling Project\Fisx\fisx.cpp(20) : warning C4101: 'radstep' : unreferenced local variable
+d:\Physics Modelling Project\Fisx\fisx.cpp(20) : warning C4101: 'j' : unreferenced local variable
+Linking...
+LINK : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+
+Build log was saved at "file://d:\Physics Modelling Project\Fisx\Debug\BuildLog.htm"
+fisx - 0 error(s), 8 warning(s)
+
+
+---------------------- Done ----------------------
+
+    Build: 1 succeeded, 0 failed, 0 skipped
+
+
